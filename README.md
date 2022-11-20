@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna Goriacheva and i'm a Front-end developer
+- 👋 Hi, I’m Anna Goriacheva and i'm a Developer
 - 👀 I’m interested in computer science, design and modern technologies.
 - 🌱 I’m currently learning html/css and javascript. In the past i studied C++
 - 💞️ I’m looking to collaborate on Front-end developer position
