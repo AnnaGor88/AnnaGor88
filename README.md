@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Anna Goriacheva and i'm a Front-End Developer
+- 👋 Hi, I’m Anna Goriacheva and i'm a JavaScript Developer
+- I know: JS, TypeScript, React, Redux, Postgres, Node, Express
 - 👀 I’m interested in computer science, design and modern technologies.
 - 🌱 I’m currently learning diffrent framework. In the past i studied C++, html/css, javascript and Java.
-- 💞️ I’m looking to collaborate on Frontend developer position
+- 💞️ I’m looking to collaborate on JavaScript developer position
 - 📫 How to reach me goryachevaanny@gmail.com
 
 <!---
